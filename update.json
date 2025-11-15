@@ -2,7 +2,7 @@
   "latest_version": "2.2.0",
   "mandatory": false,
   "released_at": "2025-11-12T10:15:00Z",
-  "download_url": "https://github.com/ampda/teams-firmware-links/releases/download/v2.2.0/Teams.certified.exe",
+  "download_url": "https://github.com/ampda/tool-updates/releases/download/v2.2.0/Partner.Firmware.Tool.exe",
   "sha256": "f4d00f9f3be88a64d1c3536dcf0f19bb64a016eeb1ad12da5cae5c007c42ffcc",
-  "release_notes_url": "https://github.com/ampda/tool-updates/releases/download/v2.2.0/Partner.Firmware.Tool.exe"
+  "release_notes_url": "https://github.com/ampda/tool-updates/releases/tag/v2.2.0"
 }
