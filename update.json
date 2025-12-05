@@ -3,9 +3,10 @@
   "mandatory": false,
   "released_at": "2025-11-12T10:15:00Z",
   "download_url": "https://github.com/ampda/tool-updates/releases/download/v2.2.0/PartnerFirmwareTool.exe",
-  "sha256": "783789bf1522582181211de80910f703ae737c0a44010c39d77d993f3ee4f788",
+  "sha256": "5e31d173ab27180cca8adc3e3413ea718c96984e239a6b3f527257c27739b92d",
   "release_notes_url": "https://github.com/ampda/tool-updates/releases/tag/v2.2.0"  
 }
+
 
 
 
